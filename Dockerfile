@@ -1,5 +1,6 @@
 FROM phusion/baseimage:0.9.16
-MAINTAINER Yoshiofthewire <Yoshi@urlxl.com>
+MAINTAINER ncandy <andy@moeandandy.com>
+#Based on the work of Yoshiofthewire <Yoshi@urlxl.com>
 #Based on the work of gfjardim <gfjardim@gmail.com>
 
 #########################################
